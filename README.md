@@ -4,7 +4,7 @@ Este es un ejemplo de repositorio creado desde GitHub
 Este es un ejemplo de repositorio creado desde GITHUB.
 #Mi proyecto
 Este es un proyecto de prueba
-Autor: Jean Diaz
+Autor: Marvin Santiago Aguiño Campaz
 
 ## Descripcion
 Aqui iria la descripcion del proyecto
