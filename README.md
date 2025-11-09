@@ -24,6 +24,7 @@ El sistema cuenta con las siguientes funciones esenciales para la gestión diari
  EJMPLO DE CODIGO 
  
 Enlace de mi Perfil
+
 https://github.com/MimarvinAguin
 
 Imagen y Logo 
