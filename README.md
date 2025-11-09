@@ -25,7 +25,7 @@ El sistema cuenta con las siguientes funciones esenciales para la gestión diari
 
 ## EJMPLO DE CODIGO 
 
-print("  BIENVENIDO AL SISTEMA DE RESERVAS HOTEL MF ")
+print("  BIENVENIDO AL SISTEMA DE RESERVAS HOTEL BURJ Al ARAB ")
 
  
 # Enlace de mi Perfil
