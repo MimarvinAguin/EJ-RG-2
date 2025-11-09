@@ -10,10 +10,12 @@ Autor: Marvin Santiago Aguiño Campaz
 Este proyecto es un sistema de gestión de reservas diceñado específicamente para hoteles. Su principal objetivo es administrar y organizar las habitaciones y la información de los huéspedes de manera eficiente. Esto permite optimizar el control de inventario y mejorar la experiencia del cliente
 
 Pasos de Instalacion y Ejecucion
-git clone https://github.com/MimarvinAguin/EJ-RG-2 Como segundo paso despues de instalarlo o descargarlo lo descomprimes el archivo que esta en esa carpeta
-EJ-RG-2 Y como tercer y ultimo paso abres la carpeta en VSC o desde VSC le das el comando ctrl+k+o para abrirlo y lo buscas 3. Visual estudio code
+1.git clone
+ https://github.com/MimarvinAguin/EJ-RG-2 
+ 2 Como segundo paso despues de instalarlo o descargarlo lo descomprimes el archivo que esta en esa carpeta
+3 EJ-RG-2 Y como tercer y ultimo paso abres la carpeta en VSC o desde VSC le das el comando ctrl+k+o para abrirlo y lo buscas 3. Visual estudio code
 
-## CARACTERISTICAS 
+## CARACTERISTICAS de mi Proyecto
 El sistema cuenta con las siguientes funciones esenciales para la gestión diaria del hotel:
 1 Búsqueda de Disponibilidad: Permite consultar habitaciones libres por fecha y tipo Sencilla, Doble, Suite
 2 Registro de Huéspedes: Registra la entrada, las reservas y los datos completos de los clientes.
@@ -21,10 +23,13 @@ El sistema cuenta con las siguientes funciones esenciales para la gestión diari
 4 Control de Ocupación: Muestra el estado actual ocupadas/disponibles previniendo el overbooking
 5 Gestión de Inventario Reporte: Ofrece un estado numérico que indica cuántas habitaciones están libres y reservadas.
 
- EJMPLO DE CODIGO 
+## EJMPLO DE CODIGO 
+print("*********************************************")
+print("  BIENVENIDO AL SISTEMA DE RESERVAS HOTEL MF ")
+print("*********************************************")
  
-Enlace de mi Perfil
-
+# Enlace de mi Perfil
 https://github.com/MimarvinAguin
 
-Imagen y Logo 
+# Logo
+https://commons.wikimedia.org/wiki/File:Burj_Al_Arab_and_Jumeirah_Beach_(9601659067).jpg
