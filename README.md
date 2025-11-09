@@ -32,4 +32,6 @@ print("  BIENVENIDO AL SISTEMA DE RESERVAS HOTEL BURJ Al ARAB ")
 https://github.com/MimarvinAguin
 
 # Logo
+Prueva:
+http://localhost/EJ-RG-2/#
 https://commons.wikimedia.org/wiki/File:Burj_Al_Arab_and_Jumeirah_Beach_(9601659067).jpg
